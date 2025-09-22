@@ -12,7 +12,7 @@ A semaphore designed to practice React and its different hooks, mainly useState 
 > Click on the image !
 ```
 
-[![img](./semaforo.jpg)](https://trafficlight-app.netlify.app/)/)
+[![img](./semaforo.jpg)](https://trafficlight-app.netlify.app/)
 
 ## About me
 
